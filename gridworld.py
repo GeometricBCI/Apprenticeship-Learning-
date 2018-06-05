@@ -1,9 +1,9 @@
 """
 Implements the gridworld MDP.
-Original written by Matthew Alger, 2015
+Original version written by Matthew Alger, 2015
 matthew.alger@anu.edu.au
 
-Modified by Ce Ju 
+Smally Modified by Ce Ju 
 juce.sysu@gmail.com
 """
 
