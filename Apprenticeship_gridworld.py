@@ -11,8 +11,8 @@ sys.path.append('..')
 import numpy as np
 import matplotlib.pyplot as plt
 
-import irl.Apprenticeship_irl as Apprenticeship
-import irl.mdp.gridworld as gridworld
+import Apprenticeship_irl as Apprenticeship
+import gridworld as gridworld
 import time
 
 
