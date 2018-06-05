@@ -1,8 +1,10 @@
 """
 Implements the gridworld MDP.
-
-Matthew Alger, 2015
+Original written by Matthew Alger, 2015
 matthew.alger@anu.edu.au
+
+Modified by Ce Ju 
+juce.sysu@gmail.com
 """
 
 import numpy as np
